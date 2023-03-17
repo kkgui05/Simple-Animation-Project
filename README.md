@@ -1,10 +1,15 @@
 # Simple-Animation-Project
+
+Author: kkgui05
+
 This is a C++ program that generates some elementary animations. 
 
-How to use: 
-Clone the repository or download the code file animation.cpp.
-Compile the program using any C++ compiler
-Run the program 
+How to use:
+
+Clone the repository or download the code file,
+Compile the program using any C++ compiler,
+Run the program
+
 Enter the size of the animation (an odd number).
 Enter the shape you want to generate:
 1 for Square
